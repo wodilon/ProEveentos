@@ -38,5 +38,5 @@ public eventos: any = [
     //   }
     // ];
   }
-  
+
 }
